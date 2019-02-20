@@ -1,0 +1,11 @@
+C:\Users\Liveey\Desktop\Art\Okami\Okami\bin\Debug\netcoreapp2.1\Okami.deps.json
+C:\Users\Liveey\Desktop\Art\Okami\Okami\bin\Debug\netcoreapp2.1\Okami.runtimeconfig.json
+C:\Users\Liveey\Desktop\Art\Okami\Okami\bin\Debug\netcoreapp2.1\Okami.runtimeconfig.dev.json
+C:\Users\Liveey\Desktop\Art\Okami\Okami\bin\Debug\netcoreapp2.1\Okami.dll
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.csproj.CoreCompileInputs.cache
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.AssemblyInfoInputs.cache
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.AssemblyInfo.cs
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.csprojAssemblyReference.cache
+C:\Users\Liveey\Desktop\Art\Okami\Okami\bin\Debug\netcoreapp2.1\Okami.pdb
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.dll
+C:\Users\Liveey\Desktop\Art\Okami\Okami\obj\Debug\netcoreapp2.1\Okami.pdb
